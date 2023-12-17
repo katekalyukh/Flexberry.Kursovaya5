@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Фотокиоск",
+      "projection": "ФотокиоскL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Печать фото",
+  "name": "IISKursovaya5ПечатьФотоE",
+  "className": "ПечатьФотоE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya5-печать-фото",
+      "modelProjection": "ПечатьФотоE"
+    }
+  ]
+}

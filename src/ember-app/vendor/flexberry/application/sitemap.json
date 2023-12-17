@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Kursovaya5",
+  "applicationTitle": "Kursovaya5",
+  "items": [
+    {
+      "link": null,
+      "menuName": "kursovaya5",
+      "caption": "Kursovaya5",
+      "title": "Kursovaya5",
+      "children": [
+        {
+          "link": "i-i-s-kursovaya5-оплата-l",
+          "menuName": null,
+          "caption": "Оплата",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya5-фотокиоск-l",
+          "menuName": null,
+          "caption": "Фотокиоск",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya5-печать-фото-l",
+          "menuName": null,
+          "caption": "Печать фото",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

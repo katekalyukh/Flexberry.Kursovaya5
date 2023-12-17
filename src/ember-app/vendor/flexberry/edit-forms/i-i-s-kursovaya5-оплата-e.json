@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "ПечатьФото",
+      "projection": "ПечатьФотоL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Оплата",
+  "name": "IISKursovaya5ОплатаE",
+  "className": "ОплатаE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya5-оплата",
+      "modelProjection": "ОплатаE"
+    }
+  ]
+}
